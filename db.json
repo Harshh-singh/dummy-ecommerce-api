@@ -12,7 +12,7 @@
       "name": "Smartphone",
       "price": 699.99,
       "description": "Latest model smartphone with stunning display and powerful processor.",
-      "image": "https://i.pinimg.com/236x/aa/ee/74/aaee744610590d71577c72c84b135d36.jpg"
+      "image": "https://i.pinimg.com/474x/34/45/d3/3445d3483a630a3677e2c17cd7198869.jpg"
     },
     {
       "id": 3,
@@ -26,7 +26,7 @@
       "name": "Smartwatch",
       "price": 199.99,
       "description": "Smartwatch with fitness tracking and heart rate monitoring.",
-      "image": "https://example.com/images/smartwatch.jpg"
+      "image": "https://i.pinimg.com/236x/aa/ee/74/aaee744610590d71577c72c84b135d36.jpg"
     },
     {
       "id": 5,
